@@ -1,0 +1,1 @@
+<?php $db = mysqli_select_db($connection, "userprofile"); ?>
